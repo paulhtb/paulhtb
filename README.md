@@ -9,3 +9,5 @@ Here are the process and tech stack I'm most familiar with :
 User journey | Prototyping in Figma | DB Schema and PostgreSQL | MVC pattern with Ruby on Rails | Auth. with Devise | Javascript + Stimulus JS | Geocoding with Mapbox | Action cable | Active record | PG Search | SCSS | GitHub | Cloudinary | Heroku
 
 🚀 I am now a certified Junior Full-stack Developer, working on some exciting personal projects to keep learning every day, and open to join new adventures! 
+
+<a href="https://www.linkedin.com/in/paulhattabe/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
